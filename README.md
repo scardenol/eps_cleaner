@@ -1,5 +1,5 @@
 # eps_cleaner
-A simple windows executable batch file that uses GhostScript to cleanup EPS files and reduce their size to x1/5 their original size.
+A simple Windows/Linux/Mac executable batch/bash file that uses GhostScript to cleanup EPS files and reduce their size to x1/5 their original size.
 
 # Requirements
 The script was built with:
