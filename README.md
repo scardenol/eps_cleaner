@@ -10,7 +10,7 @@ You can download GhostScript from the official page: https://ghostscript.com/rel
 
 # How to use?
 ## Windows
-1. Simply put the ```eps_cleaner.bat``` file on the directory that contains the EPS file(s) and execute it.
+Simply put the ```eps_cleaner.bat``` file on the directory that contains the EPS file(s) and execute it.
 
 *Output:* the batch creates an ```output``` folder inside the directory with the cleaned/optimized EPS files.
 
